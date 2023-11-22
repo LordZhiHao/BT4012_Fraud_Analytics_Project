@@ -8,11 +8,13 @@ The dataset consists of 18,000 job descriptions, of which 800 are fake in nature
 
 ## Problem Statement 
 1. Addressing Unemployment and Job Scams:
+
 Job scams have become an unfortunate part of the modern job-hunting process. Many individuals, especially those desperate for employment, can easily fall prey to these scams. By predicting and identifying fake job descriptions, we can potentially save countless job seekers from the heartbreak and financial costs associated with fraudulent job offers.
 
 From employers’ point of view, they often spend considerable resources on recruitment. By reducing the noise of fake job listings, legitimate businesses can more efficiently reach and engage potential candidates, leading to quicker and more trustworthy hiring processes.
 
 2. Enhancing Integrity in Online Job Platforms:
+
 By ensuring that a platform's job listings are genuine, job seekers will have increased confidence when applying for positions. This can lead to a greater sense of security and trust in online job-seeking processes. As a result, online job platforms that can effectively filter out fake job descriptions will have a competitive edge over others. Higher trust also translates to higher user retention, more users, and potentially, greater revenue.
 
 ## File Descriptions
