@@ -1,1 +1,7 @@
+# This is the place where scraped files are stored for potential reference use. However, the files that are collated here are useless to the final project output and thus should not be used for any submission purposes. 
+
+### Files Description 
+TF-IDF_models:
+This file is scraped due to concerns over data leakage, where the implementation of tf-idf in the file may cause unexpected data leakage to the test set and thus lead to unexpected results.
+
 
