@@ -7,6 +7,10 @@ The dataset that is in use is from https://www.kaggle.com/datasets/shivamb/real-
 The dataset consists of 18,000 job descriptions, of which 800 are fake in nature. This dataset can be used to train models to detect fake job listings posted, and help to flag them out as a preventive measure. These fake job listings may be used to scam potential job finders and potentially trick them of their money. It consists of 18 columns, which describes the nature of the job, salary, required level of experience and education and descriptions of the job requirements as well as information about the companies that are offering the position. The job posting descriptions are from worldwide and across different employment type in numerous industries, thus it will provide a holistic view of job postings.
 
 ## Problem Statement 
+There are a few reasons why we decided to select this problem statement for our analysis. In particular, as soon-to-be graduates who are looking to find suitable roles in the job market, we are fully aware of the importance of job scams online. Therefore, we would like to explore ways to incorporate some algorithms that are able to handle the problem. 
+
+In particular, we look to address these issues:
+
 1. Addressing Unemployment and Job Scams:
 
 Job scams have become an unfortunate part of the modern job-hunting process. Many individuals, especially those desperate for employment, can easily fall prey to these scams. By predicting and identifying fake job descriptions, we can potentially save countless job seekers from the heartbreak and financial costs associated with fraudulent job offers.
