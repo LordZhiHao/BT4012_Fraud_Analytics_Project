@@ -22,3 +22,23 @@ From employers’ point of view, they often spend considerable resources on recr
 By ensuring that a platform's job listings are genuine, job seekers will have increased confidence when applying for positions. This can lead to a greater sense of security and trust in online job-seeking processes. As a result, online job platforms that can effectively filter out fake job descriptions will have a competitive edge over others. Higher trust also translates to higher user retention, more users, and potentially, greater revenue.
 
 ## File Descriptions
+
+**ExploratoryDataAnalysis.ipynb**
+
+This is the compiled script for our preliminary data analysis and exploration. It contains all the descriptive data analysis steps we taken in order to understand the data better. 
+
+**TF-IDF_Script.ipynb**
+
+This is the compiled script for our data preprocessing, feature engineering, model training and model evaluation steps applied on the dataset by utilising tf-idf vectorizer to convert our text data into numerical vectors.
+
+**CountVectorization_Script.ipynb**
+
+This is the compiled script for our data preprocessing, feature engineering, model training and model evaluation steps applied on the dataset by utilising count vectorizer to convert our text data into numerical vectors.
+
+**Word2Vec_Data_Preprocess.ipynb**
+
+This is the compiled script for our data preprocessing and feature engineering steps applied on the dataset by utilising Word2Vec Word Embedding to convert our text data into numerical vectors.
+
+**Word2Vec_Model_Evaluation.ipynb**
+
+This is the compiled script for our model training and model evaluation steps applied on the dataset by utilising Word2Vec Word Embedding to convert our text data into numerical vectors.
