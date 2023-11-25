@@ -24,16 +24,21 @@ By ensuring that a platform's job listings are genuine, job seekers will have in
 ## File Descriptions
 
 ExploratoryDataAnalysis.ipynb
+
 This is the compiled script for our preliminary data analysis and exploration. It contains all the descriptive data analysis steps we taken in order to understand the data better. 
 
 TF-IDF_Script.ipynb
+
 This is the compiled script for our data preprocessing, feature engineering, model training and model evaluation steps applied on the dataset by utilising tf-idf vectorizer to convert our text data into numerical vectors.
 
 CountVectorization_Script.ipynb
+
 This is the compiled script for our data preprocessing, feature engineering, model training and model evaluation steps applied on the dataset by utilising count vectorizer to convert our text data into numerical vectors.
 
 Word2Vec_Data_Preprocess.ipynb
+
 This is the compiled script for our data preprocessing and feature engineering steps applied on the dataset by utilising Word2Vec Word Embedding to convert our text data into numerical vectors.
 
 Word2Vec_Model_Evaluation.ipynb
+
 This is the compiled script for our model training and model evaluation steps applied on the dataset by utilising Word2Vec Word Embedding to convert our text data into numerical vectors.
