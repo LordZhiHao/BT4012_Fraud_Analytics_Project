@@ -9,3 +9,6 @@ These files are scraped based on the concerns that the naive bayes algorithm use
 
 **CountVectorizer_WordProcessing Files:**
 These files have similar data leakage issues as well. However, we do created another updated implementation that managed to achieve better results while mitigating the issues faced. 
+
+**Rest of the files:** 
+The other files are scripts that are designed for experiment purposes or to align and compile the research of all members. 
